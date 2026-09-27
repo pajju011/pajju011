@@ -101,15 +101,7 @@ Collection of my programming projects and experiments.
 
 👉 [View Project](https://github.com/pajju011/My-Projects)
 
----
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pajju011&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ---
 
