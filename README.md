@@ -109,6 +109,10 @@ Collection of my programming projects and experiments.
 
 <div align="center">
 
+<a href="mailto:prajwal.r.poojary11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/prajwal-r-poojary">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -116,6 +120,7 @@ Collection of my programming projects and experiments.
 <a href="https://github.com/pajju011">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 
 </div>
 
